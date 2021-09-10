@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello! I am Deepak Maurya and I am a full stack web developer as well as a Technical Blogger and a gamer. I enjoy creating things that live on internet. 👋
 
-<!--
-**deepak04122000/deepak04122000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Vuejs, Nodejs, Vuetify, BootStrap, MongoDB
 - 🌱 I’m currently learning ...TypeScript, Docker
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...deepak04122000maurya@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
