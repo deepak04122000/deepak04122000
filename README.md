@@ -1,8 +1,8 @@
 ### Hello! I am Deepak Maurya and I am a full stack Web developer as well as a Technical Blogger and a Gamer. I enjoy creating things that live on internet. 👋
 
 
-- 🔭 I’m currently working on ...Vuejs, Nodejs, Vuetify, BootStrap, MongoDB
-- 🌱 I’m currently learning ...TypeScript, Docker
+- 🔭 I’m currently working on ...Vuejs, Nuxtjs, Vuetify, BootStrap, Nodejs, Express, MongoDB
+- 🌱 I’m currently learning ...TypeScript, Deno, Docker
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
