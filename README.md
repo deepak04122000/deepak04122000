@@ -1,4 +1,4 @@
-### Hello! I am Deepak Maurya and I am a full stack web developer as well as a Technical Blogger and a gamer. I enjoy creating things that live on internet. 👋
+### Hello! I am Deepak Maurya and I am a full stack Web developer as well as a Technical Blogger and a Gamer. I enjoy creating things that live on internet. 👋
 
 
 - 🔭 I’m currently working on ...Vuejs, Nodejs, Vuetify, BootStrap, MongoDB
