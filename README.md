@@ -1,4 +1,12 @@
-### Hi! I am Deepak Maurya and I am a full stack Web developer as well as a Technical Blogger and a Gamer. I enjoy creating things that live on internet. 👋
+### Hi! I am Deepak Maurya and I am a full stack Web developer as well as a Technical Blogger and a Gamer. I enjoy creating things that live on internet.
+
+## Currently I am working on these technologies -
+### Frontend
+- HTML, CSS and JavaScript
+- Vuejs, Nuxtjs, Bootstrap, Vuetify
+
+### Backend
+- Nodejs, Express, MongoDB
 
 ## I'm Currently Learning
 
@@ -7,12 +15,7 @@
 - Deno
 
 
-- 🔭 I’m currently working on ...Vuejs, Nuxtjs, Vuetify, BootStrap, Nodejs, Express, MongoDB
-- 🌱 I’m currently learning ...TypeScript, Deno, Docker
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...deepak04122000maurya@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## How to reach me -
 
+- e-mail: deepak04122000maurya@gmail.com 
+- website: https://dlearner.netlify.app
