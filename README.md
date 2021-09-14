@@ -1,3 +1,5 @@
+![](https://avatars.githubusercontent.com/u/71115138?v=4)
+
 Hi! I am **Deepak Maurya** and I am a **full stack Web developer** as well as a **Technical Blogger** and a **Gamer**. I enjoy creating things that live on internet.
 
 ### Currently I am working on these technologies -
