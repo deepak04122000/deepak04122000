@@ -1,5 +1,5 @@
 <!-- ![](https://avatars.githubusercontent.com/u/71115138?v=4) -->
-<img src="https://avatars.githubusercontent.com/u/71115138?v=4" height=200 width = 200></img>
+<!-- <img src="https://avatars.githubusercontent.com/u/71115138?v=4" height=200 width = 200></img> -->
 
 Hi! I am **Deepak Maurya** and I am a **full stack Web developer** as well as a **Technical Blogger** and a **Gamer**. I enjoy creating things that live on internet.
 
