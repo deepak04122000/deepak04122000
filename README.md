@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak04122000&theme=radical)
 
-Hi! I am **Deepak Maurya** and I am a **full stack Web developer** as well as a **Technical Blogger** and a **Gamer**. I enjoy creating things that live on internet.
+### Hi! I am **Deepak Maurya** and I am a **full stack Web developer** as well as a **Technical Blogger** and a **Gamer**. I enjoy creating things that live on internet.
 
 ### Currently I am working on these technologies -
 ### Frontend
