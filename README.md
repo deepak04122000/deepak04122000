@@ -23,4 +23,4 @@
 ### How to reach me -
 
 - e-mail: deepak04122000maurya@gmail.com 
-- website: https://dlearner.netlify.app
+- website: https://dlearner.in
