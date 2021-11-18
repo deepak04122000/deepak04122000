@@ -17,6 +17,7 @@
 
 - TypeScript
 - Docker
+- Tailwind
 - Deno
 
 
