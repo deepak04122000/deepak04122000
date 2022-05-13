@@ -8,7 +8,7 @@
 ### Currently I am working on these technologies -
 ### Frontend
 - **HTML, CSS and JavaScript**
-- **Vuejs, Nuxtjs, Bootstrap, Vuetify**
+- **Vuejs, Nuxtjs, Tailwind,  Bootstrap, Vuetify**
 
 ### Backend
 - **Nodejs, Express, MongoDB**
@@ -17,8 +17,7 @@
 
 - TypeScript
 - Docker
-- Tailwind
-- Deno
+- React
 
 
 ### How to reach me -
