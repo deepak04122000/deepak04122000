@@ -15,7 +15,7 @@
 
 ### I'm Currently Learning
 
-- TypeScript
+- Go
 - Docker
 - React
 
